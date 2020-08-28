@@ -1,4 +1,3 @@
 def square_array(numbers)
-  array = []
-  array.each do 
+  new_numbers = 
 end
